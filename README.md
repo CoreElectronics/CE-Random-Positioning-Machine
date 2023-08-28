@@ -1,6 +1,10 @@
-# Core Electronics Random Positioning Machine
+# Random Positioning Machine
+
+Designed by [Core Electronics](https://core-electronics.com.au/) with documentation created and delivered by [Unconvengineering](unconvengineering.au)
 
 ![](thumbnail.jpg)
+
+
 
 ### OnShape Projects
 This project was designed in OnShape - while all the files are available for download in this repo, we've also linked the origin project so you can
