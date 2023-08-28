@@ -6,7 +6,9 @@ Designed by [Core Electronics](https://core-electronics.com.au/) with documentat
 
 ## Assembly Instructions
 
-A full bill of materials and assembly steps are covered in the instructions ( [.pdf]("Assembly Instructions - Random Positioning Machine.pdf") / [.docx]("Assembly Instructions - Random Positioning Machine.docx") )
+A full bill of materials and assembly steps are covered in the instructions <a href="Assembly Instructions - Random Positioning Machine.pdf">.pdf</a>, <a href="Assembly Instructions - Random Positioning Machine.docx">.docx</a>
+
+ [.docx]("Assembly Instructions - Random Positioning Machine.docx")
 
 ## OnShape Projects
 This project was designed in OnShape - while all the files are available for download in this repo, we've also linked the origin project so you can
