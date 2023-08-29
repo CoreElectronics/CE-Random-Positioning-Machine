@@ -8,8 +8,6 @@ Designed by [Core Electronics](https://core-electronics.com.au/) with documentat
 
 A full bill of materials and assembly steps are covered in the instructions <a href="Assembly Instructions - Random Positioning Machine.pdf">.pdf</a>, <a href="Assembly Instructions - Random Positioning Machine.docx">.docx</a>
 
- [.docx]("Assembly Instructions - Random Positioning Machine.docx")
-
 ## OnShape Projects
 This project was designed in OnShape - while all the files are available for download in this repo, we've also linked the origin project so you can
 fork and modify as you see fit.
