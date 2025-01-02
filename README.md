@@ -8,6 +8,11 @@ Designed by [Core Electronics](https://core-electronics.com.au/) with documentat
 
 A full bill of materials and assembly steps are covered in the instructions <a href="Assembly Instructions - Random Positioning Machine.pdf">.pdf</a>, <a href="Assembly Instructions - Random Positioning Machine.docx">.docx</a>
 
+## Other links
+
+- [Slip ring](https://core-electronics.com.au/slip-ring-6-wire-2a.html)
+- [Micro-Servo (FS90MR)](https://core-electronics.com.au/feetech-fs90mr-1-8kg-digital-continuous-servo.html)
+
 ## OnShape Projects
 This project was designed in OnShape - while all the files are available for download in this repo, we've also linked the origin project so you can
 fork and modify as you see fit.
